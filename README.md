@@ -1,16 +1,19 @@
 ### Hi there 👋
+I am a Software Engineer.
 
-<!--
-**rejRoky/rejroky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on,
+    - Python, Django Rest Framework,
+    - Java, Spring Boot Framework, 
+    - REST API's,
+    - ORM,
+    - Docker
+- 🌱 Learning on,
+    - Cyber Security,
+    - Cloud Infrastructure
+- 💬 About Me,
+    - Linkedin: www.linkedin.com/in/rejroky
+- 👨🏾‍💻 Practice on,
+   - Hackerrank: www.hackerrank.com/rejRoky
+   - Leetcode: www.leetcode.com/rejroky
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rejRoky&layout=compact&langs_count=15&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
