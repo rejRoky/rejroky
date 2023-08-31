@@ -5,7 +5,6 @@ I am a Software Engineer.
     - Python, Django Rest Framework,
     - Java, Spring Boot Framework, 
     - REST API's,
-    - ORM,
     - ML/AI, 
     - Docker
 - 🌱 Learning on,
