@@ -6,10 +6,12 @@ I am a Software Engineer.
     - Java, Spring Boot Framework, 
     - REST API's,
     - ORM,
+    - ML/AI, 
     - Docker
 - 🌱 Learning on,
     - Cyber Security,
     - Cloud Infrastructure
+    - Data Science
 - 💬 About Me,
     - Linkedin: www.linkedin.com/in/rejroky
 - 👨🏾‍💻 Practice on,
