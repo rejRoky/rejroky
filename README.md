@@ -3,7 +3,6 @@ I am a Software Engineer.
 
 - 🔭 Working on,
     - Python, Django Rest Framework,
-    - Java, Spring Boot Framework, 
     - REST API's,
     - ML/AI, 
     - Docker
