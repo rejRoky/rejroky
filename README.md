@@ -1,6 +1,6 @@
 <div align="center">
 
-# S.M. Rejaul Islam Roky
+# Rejaul Islam Roky
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Backend+%26+AI+Systems+Specialist;DevOps+%26+Cloud-Native+Enthusiast)](https://git.io/typing-svg)
 
@@ -96,29 +96,6 @@ Cloud Automation              MLOps Pipelines
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rejRoky&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejRoky&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=rejroky&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rejRoky&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
@@ -140,30 +117,6 @@ Cloud Automation              MLOps Pipelines
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rejRoky&theme=github_dark" alt="Stats" height="150"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rejRoky&theme=github_dark&utcOffset=6" alt="Productive Time" height="150"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rejRoky/rejRoky/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rejRoky/rejRoky/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rejRoky/rejRoky/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rejRoky&theme=github_dark&hide_border=true&bg_color=0d1117&layout=compact" alt="WakaTime Stats"/>
 
 </div>
 
