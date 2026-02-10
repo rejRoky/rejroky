@@ -129,6 +129,46 @@ Cloud Automation              MLOps Pipelines
 
 ---
 
+## Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rejRoky&theme=github_dark" alt="Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rejRoky&theme=github_dark" alt="Repos per Language" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rejRoky&theme=github_dark" alt="Most Commit Language" height="150"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rejRoky&theme=github_dark" alt="Stats" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rejRoky&theme=github_dark&utcOffset=6" alt="Productive Time" height="150"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rejRoky/rejRoky/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rejRoky/rejRoky/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rejRoky/rejRoky/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rejRoky&theme=github_dark&hide_border=true&bg_color=0d1117&layout=compact" alt="WakaTime Stats"/>
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rejRoky&color=2f81f7&style=flat-square&label=Profile+Views)
