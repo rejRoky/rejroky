@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2f81f7&height=220&section=header&text=Rejaul%20Islam%20Roky&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Systems%20%7C%20Cloud-Native&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:2f81f7&amp;height=220&amp;section=header&amp;text=Rejaul%20Islam%20Roky&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Systems%20%7C%20Cloud-Native&amp;descSize=16&amp;descAlignY=55&amp;descColor=8b949e&amp;animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=Designing+Scalable+Backend+Architectures+%F0%9F%8F%97%EF%B8%8F;Building+ML-Powered+Production+Systems+%F0%9F%A4%96;Automating+Cloud+Infrastructure+at+Scale+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -273,7 +273,7 @@ I specialize in designing and deploying **high-performance backend systems** tha
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2f81f7&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:2f81f7&amp;height=120&amp;section=footer" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rejRoky&color=2f81f7&style=for-the-badge&label=PROFILE+VIEWS)
 
